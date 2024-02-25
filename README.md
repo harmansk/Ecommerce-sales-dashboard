@@ -11,6 +11,9 @@ Create an insightful, intuitive dashboard visualizing the various aspects of sal
 2. Designed an intuitive, interactive Tableau dashboard that consolidates sales performance, demographic analysis, and product insights, utilizing KPIs such as revenue growth, customer acquisition rates, and category-wise sales performance, enabling data-driven decision-making.
 3. Created a comprehensive Tableau visualization tool to dissect e-commerce sales data across multiple dimensions, including time series analysis of sales trends, demographic segmentation of customer base, and product performance metrics, facilitating strategic business insights through advanced data interactivity.
 
+## Link to Story Published on Tableau Public - 
+https://public.tableau.com/shared/QX945Q3WK?:display_count=n&:origin=viz_share_link
+
 
 
 
